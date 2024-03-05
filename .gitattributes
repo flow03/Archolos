@@ -1,0 +1,5 @@
+*.tmx text
+*.txt text
+*.json text eol=lf
+
+omegat.project text eol=lf
